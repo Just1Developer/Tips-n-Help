@@ -84,6 +84,7 @@ public class testing {
 																			/*
 		Dann muss das jetzt in 3 Schritten bearbeitet werden:
 		1. In einer Schleife die zahlen von 0 bis zur stelle vom alten Array in neu kopieren
+		   -> for-Schleife
 		2. Den Wert von neu an Position stelle auf die neue Zahl (zahl) setzen
 		3. In einer weiteren Schleife (kann auch die gleiche sein, ist aber ein Tucken komplizierter)
 			die restlichen Werte aus unserem zahlen-array an die Position packen, die um 1 verschoben
